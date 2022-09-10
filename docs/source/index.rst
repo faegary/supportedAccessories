@@ -10,6 +10,10 @@ Welcome to FLH Supported Accessories's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   airconditioner
+   dehumidifier
+
+   television
 
 
 Indices and tables
