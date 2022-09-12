@@ -12,7 +12,6 @@ Welcome to FLH Supported Accessories's documentation!
 
    airconditioner
    dehumidifier
-
    television
 
 
