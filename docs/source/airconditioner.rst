@@ -38,7 +38,7 @@ Others
 * 它牌支援 TaiSEIA 控制規格冷氣品牌 (HomeX) 合格商品_
 * 具備原廠紅外線遙控器設備之它牌冷氣設備
 
-.. _合格商品: https://github.com/FLHCoLtd/supportedAccessories/blob/3ae976678fe290435b93c19d9d3efc1731920728/assets/taiseia_cert-2021-05-04.pdf
+.. _合格商品: https://github.com/FLHCoLtd/supportedAccessories/raw/3ae976678fe290435b93c19d9d3efc1731920728/assets/taiseia_cert-2021-05-04.pdf
 
 
 
