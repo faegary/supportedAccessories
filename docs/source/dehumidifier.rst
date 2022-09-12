@@ -22,4 +22,4 @@ Others
 ------
 * 它牌支援 TaiSEIA 控制規格除濕機品牌 (HomeX) 合格商品_
 
-.. _合格商品: http://www.taiseia.org.tw/ReadFile/?p=News&n=c06ad036-1c41-4469-919f-b2d8821c5e0c.pdf
+.. _合格商品: https://github.com/FLHCoLtd/supportedAccessories/blob/3ae976678fe290435b93c19d9d3efc1731920728/assets/taiseia_cert-2021-05-04.pdf
