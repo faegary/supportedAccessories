@@ -1,4 +1,4 @@
-.. _infrared_ctrl:
+.. _infraredcontrol:
 
 ==============
 紅外線遙控設備

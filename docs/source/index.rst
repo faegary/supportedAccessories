@@ -13,6 +13,7 @@
    airconditioner
    dehumidifier
    television
+   floorheating
    infraredcontrol
 
 
