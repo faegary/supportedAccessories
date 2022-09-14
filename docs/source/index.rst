@@ -14,7 +14,7 @@
    dehumidifier
    television
    floorheating
-   heat_recovery_ventilation
+   hrv
    infraredcontrol
 
 
