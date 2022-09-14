@@ -14,6 +14,7 @@
    dehumidifier
    television
    floorheating
+   hrv
    infraredcontrol
 
 
