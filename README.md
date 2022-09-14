@@ -1,10 +1,10 @@
 # supportedAccessories
 
 本系統利用`github`作為文件版本管理系統，結合`ReadTheDocs`系統，提供費米的業務與經銷商，作為網頁文件發布系統，可以隨時查詢與檢視智慧家庭整合設備清單。
-
-https://supportedaccessories.readthedocs.io/en/latest/
-
-ReadTheDocs系統產生的Web網頁具有搜尋功能，方便設備比對查詢
+- 透過 `github` 的帳號提供內容編緝權限管制
+- CI/CD 整合提供即時網頁內容更新機制
+- 固定網址發布文件 https://supportedaccessories.readthedocs.io/en/latest/
+- 提供網頁內容搜索功能，可以輸入設備名稱或是廠牌名稱，快速查找支援設備
 
 ## 內容維護人員注意事項
 
