@@ -15,6 +15,13 @@
    television
    floorheating
    hrv
+   projector
+   curtain
+   camera
+   doorlock
+   light
+   fan
+   soundsystem
    infraredcontrol
 
 
