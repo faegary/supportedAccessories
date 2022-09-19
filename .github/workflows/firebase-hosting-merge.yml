@@ -17,9 +17,11 @@ jobs:
           cache: 'pip'
       - run: pip install -r requirements.txt
       - run: cd docs && make html
-      - uses: FirebaseExtended/action-hosting-deploy@v0
+
+      - name: Trigger RTDs build
+        uses: dfm/rtds-action@v1
         with:
-          repoToken: '${{ secrets.GITHUB_TOKEN }}'
-          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_SUPPORTEDACCESSORIES }}'
-          channelId: live
-          projectId: supportedaccessories
+          webhook_url: ${{ secrets.RTDS_WEBHOOK_URL }}
+          webhook_token: ${{ secrets.RTDS_WEBHOOK_TOKEN }}
+          commit_ref: ${{ github.ref }}
+
